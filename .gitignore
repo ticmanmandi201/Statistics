@@ -1,0 +1,11 @@
+# Virtual environment and Python cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Your personal spending data (the app creates a new one on first run)
+expenses.db
+
+# Editor settings
+.vscode/
